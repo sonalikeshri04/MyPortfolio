@@ -1,0 +1,26 @@
+[
+    {
+      "key": 1,
+      "title": "E-Commerce",
+      "imageSrc": "projects/e-com.jpg",
+      "description": "It’s an online ecommerce website which recommend you online shopping based on your search.There are lots of features. Technology Used:- HTML, CSS, JAVASCRIPT",
+      "demo": "https://sonalikeshri04.github.io/kara/",
+      "source": "https://github.com/sonalikeshri04"
+    },
+    {
+      "key": 2,
+      "title": "Railway Reservation",
+      "imageSrc": "projects/train.jpg",
+      "description":"It’s an online railway tickets booking website where you can search your train, order meals,login/signup & many more features.Technology Used:-HTML,CSS,JAVASCRIPT",
+      "demo": "https://sonalikeshri04.github.io/Railway-System/",
+      "source": "https://github.com/sonalikeshri04"
+    },
+    {
+      "key": 3,
+      "title": "React Recipe",
+      "imageSrc": "projects/cooking.jpg",
+      "description": "It's a React Recipe app where you can search lots of Recipe of every Dishes with their descriptions.Technology Used:-React JS,Tailwind CSS,BootStrap5 & Edamam API.",
+      "demo": "https://flavor-flare-recipe-ai.vercel.app/",
+      "source": "https://www.github.com"
+    }
+  ]

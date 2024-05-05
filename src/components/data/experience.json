@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "role": "Web Developer & Designing",
+      "organisation": "Oasis Infobyte",
+      "startDate": "April, 2023",
+      "endDate": "May,2023",
+      "location": "New Delhi",
+      "experiences": [
+        "Develop and Designing Website",
+        "With HTML, CSS, JavaScript"
+      ],
+      "imageSrc": "company/Oasis.jpeg"
+    }
+]
